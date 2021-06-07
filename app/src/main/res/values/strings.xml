@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lesson3</string>
+<string-array name="title">
+
+    <item>Фэнтези</item>
+    <item>Детективы</item>
+    <item>Ужасы</item>
+    <item>Приключения</item>
+    <item>Проза</item>
+
+</string-array>
+</resources>
